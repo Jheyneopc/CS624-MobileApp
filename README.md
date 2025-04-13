@@ -1,5 +1,5 @@
 # CS-624-
-PEO1 
+PE01/
 INPUT:
 There is no direct user input in this app. The content is hard-coded into the app in a way that would display a message with my name, degree program, and university name. The data is written using React Native Text components.
 
