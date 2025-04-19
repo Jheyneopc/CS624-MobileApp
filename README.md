@@ -1,3 +1,12 @@
+PE02/
+INPUT:
+The app lets users type their favorite course (like "CS624") into a text box. It also loads a picture from the assets folder (cityu-image.jpg) and uses hardcoded course lists (core, depth, and capstone) to display on the screen.
+PROCESS:
+When the app starts, it uses React Native components like View, Text, Image, TextInput, ScrollView, and StyleSheet. It shows a scrollable screen where the image appears at the top, and below it, the input field and course lists are styled and displayed clearly.
+OUTPUT:
+The user sees a nice mobile screen with a CityU image, an input box to type in a course, and a list of MSCS courses grouped under Core Requirements, Depth of Study, and Capstone. The layout is organized with color highlights and works on both web and mobile using Expo.
+
+
 # CS-624-
 PE01/
 INPUT:
