@@ -1,3 +1,15 @@
+PE03/
+
+INPUT
+The app allows users to type tasks into a text input field. The input is stored temporarily and is used to create a new item in the to-do list when the user presses the Submit button.
+
+PROCESS
+When the app starts, it uses React Native to display the main screen. The user types in a task and clicks Submit. This triggers a function that adds the task to an array in the app’s state. The user can then mark tasks as “Done” or “Delete” them. There is also a tab bar at the bottom that filters the list to show All, Active (not done), or Completed (done) tasks. The app updates its view based on the selected tab and any changes made.
+
+OUTPUT
+The output is a to-do list that updates live on the screen. Tasks can be filtered, completed, or removed. The design is simple and mobile-friendly.
+
+
 PE02/
 
 INPUT:
