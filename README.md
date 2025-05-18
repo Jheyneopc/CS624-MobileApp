@@ -1,3 +1,15 @@
+PE04
+# Input  
+For this project, the app doesn’t take input from the user like typing or clicking buttons. Instead, I use some text and an image already added in the code. This includes a name, job title, and a short description. These are displayed on the screen using built in React Native components.
+
+# Process  
+The app is built using React Native. I created a profile card using components like "View", "Text", and "Image". I also used StyleSheet to style the text, background, layout, and spacing to make it look nice. All the code is organized in different folders like app, assets, and components to keep everything clean and easy to understand.
+
+# Output  
+The final result is a mobile app screen that shows a simple profile card. It displays the person’s name, job, and a short description, along with an image. The layout looks clean and friendly. We added screenshots to show that the app works as expected.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <<<<<<< HEAD
 # Welcome to your Expo app 👋
 
