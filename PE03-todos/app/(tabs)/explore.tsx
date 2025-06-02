@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
-import { Image } from 'expo-image';
->>>>>>> c904f70772befe8a758a85d1c1cc830db6e6f351
-import { Platform, StyleSheet } from 'react-native';
+
+import { StyleSheet, Image, Platform } from 'react-native';
 
 import { Collapsible } from '@/components/Collapsible';
 import { ExternalLink } from '@/components/ExternalLink';
@@ -53,10 +50,7 @@ export default function TabTwoScreen() {
           <ThemedText type="defaultSemiBold">@3x</ThemedText> suffixes to provide files for
           different screen densities
         </ThemedText>
-<<<<<<< HEAD
-=======
         <Image source={require('@/assets/images/react-logo.png')} style={{ alignSelf: 'center' }} />
->>>>>>> c904f70772befe8a758a85d1c1cc830db6e6f351
         <ExternalLink href="https://reactnative.dev/docs/images">
           <ThemedText type="link">Learn more</ThemedText>
         </ExternalLink>
@@ -76,7 +70,7 @@ export default function TabTwoScreen() {
         <ThemedText>
           This template has light and dark mode support. The{' '}
           <ThemedText type="defaultSemiBold">useColorScheme()</ThemedText> hook lets you inspect
-          what the user&apos;s current color scheme is, and so you can adjust UI colors accordingly.
+          what the user's current color scheme is, and so you can adjust UI colors accordingly.
         </ThemedText>
         <ExternalLink href="https://docs.expo.dev/develop/user-interface/color-themes/">
           <ThemedText type="link">Learn more</ThemedText>
